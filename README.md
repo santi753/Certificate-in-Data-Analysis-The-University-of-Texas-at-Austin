@@ -11,9 +11,9 @@ This repository contains projects and work completed during my Data Analytics Ce
 
 ### Skills & Competencies
 * Data Analysis
+* Machine learning
 * Statistical Methods
 * Data Visualization
 * Data Cleaning and Preprocessing
 * Analytical Problem Solving
-* Business Intelligence
 * Data-Driven Decision Making
